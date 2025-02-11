@@ -1,0 +1,28 @@
+div {
+    font-size: x-large;
+    text-align: start;
+    font-family:'Times New Roman', Times, serif;
+}
+h1 {
+    font-style: oblique;
+}
+body {
+    background-color:beige
+}
+video {
+    width: 600px;
+    height: 360px;
+    display: block; 
+    margin:0 auto;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: 360px;
+}
+p {
+    font-size: x-large;
+}
+
+
